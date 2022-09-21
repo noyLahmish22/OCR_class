@@ -1,0 +1,16 @@
+pre-commit
+pytest
+uvicorn
+pytesseract
+fastapi
+scikit-image
+matplotlib
+pdf2image
+python-dateutil
+spellchecker
+aspose-words
+anyio
+bs4
+autocorrect
+python-multipart
+python-docx
